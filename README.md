@@ -70,10 +70,4 @@ Building this dashboard strengthened my skills in cleaning and modeling real-wor
 - `Hospital ER Analysis.pbix` — Power BI project file
 - `README.md` — Project documentation
 
-## 👤 Author
-
-**Sithumini** — BSc (Hons) IT, Data Science | Aspiring Data Analyst
-- GitHub: [@sithuminiNK](https://github.com/sithuminiNK)
-
----
 ⭐ If you found this project useful, feel free to star the repo!
