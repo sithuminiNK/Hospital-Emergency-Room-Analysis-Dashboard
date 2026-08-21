@@ -55,16 +55,14 @@ The dataset contains **9,216 emergency room patient records**, including fields 
 - Peak Day & Hour heatmap/analysis
 
 ## 🖼️ Preview
-![Dashboard Preview](E:\PROJECTS\Hospital-Emergency-Room-Analysis-Dashboard\Montthly_View.png)
+
+*(Add a screenshot or GIF of your dashboard here — drag the image into this repo and reference it, e.g.)*
+```
+![Dashboard Preview](screenshots/dashboard-overview.png)
 ```
 
 ## 🔑 Key Learnings
 
 Building this dashboard strengthened my skills in cleaning and modeling real-world healthcare data with Power Query, writing DAX measures for KPI tracking, and designing dashboards that tell a clear operational story rather than just displaying numbers.
-
-## 📁 Repository Contents
-
-- `Hospital ER Analysis.pbix` — Power BI project file
-- `README.md` — Project documentation
 
 ⭐ If you found this project useful, feel free to star the repo!
