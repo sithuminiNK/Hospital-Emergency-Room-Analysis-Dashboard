@@ -56,9 +56,8 @@ The dataset contains **9,216 emergency room patient records**, including fields 
 
 ## 🖼️ Preview
 
-*(Add a screenshot or GIF of your dashboard here — drag the image into this repo and reference it, e.g.)*
-```
-![Dashboard Preview](screenshots/dashboard-overview.png)
+![alt text](Montthly_View.png)
+
 ```
 
 ## 🔑 Key Learnings
