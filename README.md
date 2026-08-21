@@ -55,7 +55,7 @@ The dataset contains **9,216 emergency room patient records**, including fields 
 - Peak Day & Hour heatmap/analysis
 
 ## 🖼️ Preview
-(screenshots/E:\PROJECTS\Hospital-Emergency-Room-Analysis-Dashboard\Montthly_View.png)
+![Dashboard Preview](E:\PROJECTS\Hospital-Emergency-Room-Analysis-Dashboard\Montthly_View.png)
 ```
 
 ## 🔑 Key Learnings
